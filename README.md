@@ -34,11 +34,11 @@
 ![](custom_remote_config.png)
 
 ## 策略组分组效果
-![](https://raw.githubusercontent.com/chinnsenn/BlogFigureBed/master/blogimg/021fade30e0d64eec424492ac4a0970f.png)
+![](https://raw.githubusercontent.com/likevi9528/BlogFigureBed/master/blogimg/021fade30e0d64eec424492ac4a0970f.png)
 
 为多个流媒体平台建了策略组，并建了不同地区的手动选择策略组(香港，台湾，日本，美国等)，当流媒体选择具体地区时，再去具体地区的策略分组选择尝试具体节点
 
-以下配置是我从 [ACL_自动测速](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini)拷贝而来，并且根据自己需求做了大量的改动
+以下配置是我从 [ACL_自动测速](https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini)拷贝而来，并且根据自己需求做了大量的改动
 > 想要根据自己需求配置策略组或节点分组可以继续往下拉
 
 ### 配置总规则
@@ -55,50 +55,50 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/proxies.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/direct.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
-ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
-ruleset=🆎 AdBlock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
-ruleset=🆎 AdBlock,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
-ruleset=🆎 AdBlock,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ad.list
-ruleset=🛡️ 隐私防护,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
-ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
-ruleset=Ⓜ️ 微软云盘,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
-ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Microsoft.list
-ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
-ruleset=📲 Telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
-ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
-ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
-ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
-ruleset=🎮 Nintendo,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/Nintendo.list
-ruleset=🤖 OpenAI,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/openai.list
-ruleset=🤖 DeepL,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/deepl.list
-ruleset=🎵 TikTok,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/TikTok.list
-ruleset=📹 YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
-ruleset=🎥 Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
-ruleset=🎥 Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetflixIP.list
-ruleset=🎥 Disney+,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/DisneyPlus.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/proxies.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/direct.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/LocalAreaNetwork.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/UnBan.list
+ruleset=🛑 广告拦截,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/BanAD.list
+ruleset=🍃 应用净化,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/BanProgramAD.list
+ruleset=🆎 AdBlock,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/BanEasyList.list
+ruleset=🆎 AdBlock,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/BanEasyListChina.list
+ruleset=🆎 AdBlock,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/ad.list
+ruleset=🛡️ 隐私防护,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/BanEasyPrivacy.list
+ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/GoogleCN.list
+ruleset=Ⓜ️ 微软云盘,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/OneDrive.list
+ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Microsoft.list
+ruleset=🍎 苹果服务,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Apple.list
+ruleset=📲 Telegram,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Telegram.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/Epic.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/Sony.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/Steam.list
+ruleset=🎮 Nintendo,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/Nintendo.list
+ruleset=🤖 OpenAI,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/openai.list
+ruleset=🤖 DeepL,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/deepl.list
+ruleset=🎵 TikTok,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/TikTok.list
+ruleset=📹 YouTube,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/YouTube.list
+ruleset=🎥 Netflix,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/Netflix.list
+ruleset=🎥 Netflix,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/NetflixIP.list
+ruleset=🎥 Disney+,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/DisneyPlus.list
 ruleset=📽️ PrimeVideo,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AmazonPrimeVideo/AmazonPrimeVideo.yaml
-ruleset=🌪 Gitlab,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/Gitlab.list
-ruleset=🎼 Spotify,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/spotify.list
-ruleset=🍑 DMMCOJP,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/dmmjp.list
-ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
-ruleset=📺 Bilibili,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
-ruleset=📺 Bilibili,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list
-ruleset=🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
-ruleset=🌍 国外媒体,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ProxyMedia.list
-ruleset=📰 微博,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/weibo.list
-ruleset=💬 微信,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/wechat.list
-ruleset=🍠 小红书,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/XiaoHongShu.list
-ruleset=🕺 字节跳动,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ByteDance.list
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
+ruleset=🌪 Gitlab,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/Gitlab.list
+ruleset=🎼 Spotify,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/spotify.list
+ruleset=🍑 DMMCOJP,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/dmmjp.list
+ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/Bahamut.list
+ruleset=📺 Bilibili,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/Bilibili.list
+ruleset=📺 Bilibili,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list
+ruleset=🌏 国内媒体,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/ChinaMedia.list
+ruleset=🌍 国外媒体,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/ProxyMedia.list
+ruleset=📰 微博,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/weibo.list
+ruleset=💬 微信,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/wechat.list
+ruleset=🍠 小红书,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/XiaoHongShu.list
+ruleset=🕺 字节跳动,https://raw.githubusercontent.com/likevi9528/ClashCustomRule/master/ByteDance.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/ProxyGFWlist.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/ChinaDomain.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/ChinaCompanyIp.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Download.list
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
@@ -206,8 +206,8 @@ exclude_remarks=(IPV6|重置|流量|用户|本站|漏洞|永久虚通路|车|邀
     -   例如：
 
     ```ini
-    ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
-    # 表示引用 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list 规则
+    ruleset=🍎 苹果服务,https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Apple.list
+    # 表示引用 https://raw.githubusercontent.com/likevi9528/ACL4SSR/master/Clash/Apple.list 规则
     # 且将此规则指向 [proxy_group] 所设置 🍎 苹果服务 策略组
     ruleset=Domestic Services,clash-domain:https://ruleset.dev/clash_domestic_services_domains,86400
     # 表示引用clash-domain类型的 https://ruleset.dev/clash_domestic_services_domains 规则
